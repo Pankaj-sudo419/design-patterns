@@ -83,6 +83,12 @@ Contributions are welcome! If you have improvements or new patterns to add, feel
 3. Make your changes.
 4. Open a pull request.
 
+For more Details visit
+```bash
+1- https://www.javatpoint.com/design-patterns-in-java
+2- https://refactoring.guru/design-patterns/java
+```
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
