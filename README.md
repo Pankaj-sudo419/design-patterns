@@ -39,7 +39,7 @@ Welcome to the **Design Patterns in Java** repository! This repository showcases
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/design-patterns-java.git
+    git clone https://github.com/Pankaj-sudo419/design-patterns
     cd design-patterns-java
     ```
 
